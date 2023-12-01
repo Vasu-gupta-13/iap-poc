@@ -50,7 +50,6 @@ class AuthFunctions {
       throw ('Invalid Email or Password');
     }
   }
-
   Future<void> signOut() async {
     await _auth.signOut();
   }
