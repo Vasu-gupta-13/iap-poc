@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406317134002",
+    "project_id": "iap-poc-0133",
+    "storage_bucket": "iap-poc-0133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406317134002:android:264bf16087b68e999c59ab",
+        "android_client_info": {
+          "package_name": "com.example.in_ap_purchase_poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWSLAmJQu3hKjV6LiFst5A67xAPIiv1bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
