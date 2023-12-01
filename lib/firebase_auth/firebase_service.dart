@@ -54,7 +54,6 @@ class AuthFunctions {
   Future<void> signOut() async {
     await _auth.signOut();
   }
-
   String checkLogin(BuildContext context)  {
     User? user = _auth.currentUser;
     if (user != null) {
